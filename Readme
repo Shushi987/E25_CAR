@@ -9,19 +9,19 @@ The competition evaluates teams across:
 Our goal was to develop a safe, efficient, and competition-compliant electric vehicle, focusing on robust electrical architecture and control systems.
 
 I worked primarily on safety systems, PCB design, and system integration.
-1. BSPD (Brake System Plausibility Device) – PCB Design
-   Designed and implemented the BSPD circuit to ensure vehicle safety compliance.
-      Developed PCB layout using EDA tools.
-      Signal routing and grounding strategies
-      Ensured the system detects: Simultaneous brake + throttle conditions
-      Integrated shutdown logic to disable motor in unsafe scenarios
-2. FMEA (Failure Mode and Effects Analysis)
+1. FMEA (Failure Mode and Effects Analysis)
    Contributed to preparation of FMEA documentation
       Identified:Potential electrical and system-level failures
       Their impact and severity
       Proposed mitigation strategies to improve:
       Reliability
       Safety compliance
+2. BSPD (Brake System Plausibility Device) – PCB Design
+   Designed and implemented the BSPD circuit to ensure vehicle safety compliance.
+      Developed PCB layout using EDA tools.
+      Signal routing and grounding strategies
+      Ensured the system detects: Simultaneous brake + throttle conditions
+      Integrated shutdown logic to disable motor in unsafe scenarios
 3. Embedded & Control Integration
     Assisted in integrating:
      Sensors
